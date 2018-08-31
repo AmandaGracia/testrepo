@@ -23,7 +23,7 @@ function draw() {
     var val = slider.value();
     background(val, 100, 100, 1);
   }
-
+//this is a comment just to chek git 
 
 function keyPressed(){
     console.log("You pressed the key" + key);
